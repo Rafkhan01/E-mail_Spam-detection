@@ -3,4 +3,4 @@ Analyze whether the email is spam or ham
 # Dataset
 Spam datasets from kaggle
 # Libraries
-Pandas, streamlit(not used now), matplotlib
+Pandas, matplotlib, nltk, string, stopwords, PorterStemmer, TfidfVectorizer, train_test_split, MultinomialNB, sklearn.metrics,
